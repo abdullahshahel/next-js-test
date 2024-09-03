@@ -1,0 +1,436 @@
+Uri: https://www.thrivenvision.studio/
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\index.htm
+Content Type: text/html
+
+Uri: https://www.thrivenvision.studio/about-us
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\about-us.html
+Content Type: text/html
+
+Uri: https://www.thrivenvision.studio/contact-us
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\contact-us.html
+Content Type: text/html
+
+Uri: https://www.thrivenvision.studio/favicon.ico
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.thrivenvision.studio/get-quote
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\get-quote.html
+Content Type: text/html
+
+Uri: https://www.thrivenvision.studio/images/bg-gradient.webp
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\images\bg-gradient.webp
+Content Type: image/webp
+
+Uri: https://www.thrivenvision.studio/images/testimonials/chad-e-cote.webp
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\images\testimonials\chad-e-cote.webp
+Content Type: image/webp
+
+Uri: https://www.thrivenvision.studio/images/testimonials/cynthia-m-hanlon.webp
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\images\testimonials\cynthia-m-hanlon.webp
+Content Type: image/webp
+
+Uri: https://www.thrivenvision.studio/images/testimonials/daniel-r-wagner.webp
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\images\testimonials\daniel-r-wagner.webp
+Content Type: image/webp
+
+Uri: https://www.thrivenvision.studio/images/testimonials/donald-t-clark.webp
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\images\testimonials\donald-t-clark.webp
+Content Type: image/webp
+
+Uri: https://www.thrivenvision.studio/images/testimonials/evelyn-l-vrabel.webp
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\images\testimonials\evelyn-l-vrabel.webp
+Content Type: image/webp
+
+Uri: https://www.thrivenvision.studio/portfolios
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\portfolios.html
+Content Type: text/html
+
+Uri: https://www.thrivenvision.studio/privacy-policy
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\privacy-policy.html
+Content Type: text/html
+
+Uri: https://www.thrivenvision.studio/terms-of-service
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\terms-of-service.html
+Content Type: text/html
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fbrands%2Flogo-0.webp&w=128&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\logo-0-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fbrands%2Flogo-0.webp&w=256&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\logo-0-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fbrands%2Flogo-0.webp&w=640&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\logo-0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fbrands%2Flogo-1.webp&w=128&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\logo-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fbrands%2Flogo-1.webp&w=256&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\logo-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fbrands%2Flogo-1.webp&w=640&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\logo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fbrands%2Flogo-2.webp&w=128&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\logo-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fbrands%2Flogo-2.webp&w=256&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\logo-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fbrands%2Flogo-2.webp&w=640&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\logo-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fbrands%2Flogo-3.webp&w=128&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\logo-3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fbrands%2Flogo-3.webp&w=256&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\logo-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fbrands%2Flogo-3.webp&w=640&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\logo-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fbrands%2Flogo-4.webp&w=128&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\logo-4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fbrands%2Flogo-4.webp&w=256&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\logo-4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fbrands%2Flogo-4.webp&w=640&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\logo-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fbrands%2Flogo-5.webp&w=128&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\logo-5-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fbrands%2Flogo-5.webp&w=256&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\logo-5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fbrands%2Flogo-5.webp&w=640&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\logo-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fbrands%2Flogo-6.webp&w=128&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\logo-6-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fbrands%2Flogo-6.webp&w=256&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\logo-6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fbrands%2Flogo-6.webp&w=640&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\logo-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fbrands%2Flogo-7.webp&w=128&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\logo-7-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fbrands%2Flogo-7.webp&w=256&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\logo-7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fbrands%2Flogo-7.webp&w=640&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\logo-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fbrands%2Flogo-8.webp&w=128&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\logo-8-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fbrands%2Flogo-8.webp&w=256&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\logo-8-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fbrands%2Flogo-8.webp&w=640&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\logo-8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fheadshots%2Fhameem.webp&w=256&q=75
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\hameem-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fheadshots%2Fhameem.webp&w=640&q=75
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\hameem.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fheadshots%2Fnazmul.webp&w=256&q=75
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\nazmul-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fheadshots%2Fnazmul.webp&w=640&q=75
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\nazmul.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fheadshots%2Frobin.webp&w=256&q=75
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\robin-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fheadshots%2Frobin.webp&w=640&q=75
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\robin.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fhero-bg-logo.webp&w=384&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\hero-bg-logo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fhero-bg-logo.webp&w=640&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\hero-bg-logo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fnamed-logo.webp&w=256&q=75
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\named-logo-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fnamed-logo.webp&w=256&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\named-logo-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fnamed-logo.webp&w=384&q=75
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\named-logo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fnamed-logo.webp&w=384&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\named-logo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fnewsletter.webp&w=1080&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\newsletter.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fnewsletter.webp&w=640&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\newsletter-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fservices%2Fbrand-building.webp&w=384&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\brand-building-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fservices%2Fbrand-building.webp&w=640&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\brand-building.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fservices%2Fdigital-marketing.webp&w=384&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\digital-marketing-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fservices%2Fdigital-marketing.webp&w=640&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\digital-marketing.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fservices%2Fgraphics-%26-design.webp&w=384&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\graphics-&-design-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fservices%2Fgraphics-%26-design.webp&w=640&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\graphics-&-design.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fservices%2Fprogramming-%26-tech.webp&w=384&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\programming-&-tech-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fservices%2Fprogramming-%26-tech.webp&w=640&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\programming-&-tech.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fservices%2Fvideo-%26-animation.webp&w=384&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\video-&-animation-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fservices%2Fvideo-%26-animation.webp&w=640&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\video-&-animation.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fservices%2Fwriting-%26-translation.webp&w=384&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\writing-&-translation-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/image?url=%2Fimages%2Fservices%2Fwriting-%26-translation.webp&w=640&q=95
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\writing-&-translation.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/105-d3b0a63a35939953.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\105-d3b0a63a35939953.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/139-a21d5142d38bcd2d.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\139-a21d5142d38bcd2d.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/144-e6b1a2794ddbf64d.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\144-e6b1a2794ddbf64d.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/168-457a251daa7278ff.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\168-457a251daa7278ff.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/195-72beabd931669d59.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\195-72beabd931669d59.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/199-ed3036d6fc236b1f.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\199-ed3036d6fc236b1f.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/216-4c76e847266f251f.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\216-4c76e847266f251f.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/22-807554122872d5bf.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\22-807554122872d5bf.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/238-50e70bf75f4a4b67.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\238-50e70bf75f4a4b67.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/254-20af56ae966735d0.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\254-20af56ae966735d0.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/356-29bce52f3e9cbc4e.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\356-29bce52f3e9cbc4e.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/375-a064f669283d7eee.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\375-a064f669283d7eee.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/55-d1b75f8202175d93.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\55-d1b75f8202175d93.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/60-3a16af97bb3bfbc4.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\60-3a16af97bb3bfbc4.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/672-7a0833ee7c4a928d.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\672-7a0833ee7c4a928d.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/678-b8a1d53756caee23.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\678-b8a1d53756caee23.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/766-77c6536ea8db39ae.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\766-77c6536ea8db39ae.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/802-8114b2af51fd643f.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\802-8114b2af51fd643f.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/90234aad-61fcab06cbe2dd33.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\90234aad-61fcab06cbe2dd33.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/931-58a9f563564ce347.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\931-58a9f563564ce347.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/96f0abab-8bac3ee76098fed5.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\96f0abab-8bac3ee76098fed5.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/980-c6fc93095b56afb4.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\980-c6fc93095b56afb4.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/app/(main)/about-us/page-879c111a708c266d.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\app\(main)\about-us\page-879c111a708c266d.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/app/(main)/contact-us/page-3407ec9776c7392b.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\app\(main)\contact-us\page-3407ec9776c7392b.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/app/(main)/get-quote/page-ffeabce445c8d736.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\app\(main)\get-quote\page-ffeabce445c8d736.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/app/(main)/layout-dfc497d397700abd.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\app\(main)\layout-dfc497d397700abd.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/app/(main)/page-081fd25984629941.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\app\(main)\page-081fd25984629941.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/app/(main)/portfolios/page-a5a80acd3be5fabe.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\app\(main)\portfolios\page-a5a80acd3be5fabe.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/app/(main)/privacy-policy/page-cefc41e373e76299.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\app\(main)\privacy-policy\page-cefc41e373e76299.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/app/(main)/terms-of-service/page-da3be373d6756141.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\app\(main)\terms-of-service\page-da3be373d6756141.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/app/layout-60caa1070d845284.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\app\layout-60caa1070d845284.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/f6f0c346-ee6cc6e6f691d005.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\f6f0c346-ee6cc6e6f691d005.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/main-app-ff783c64802702c3.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\main-app-ff783c64802702c3.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/chunks/webpack-db5cf0a8966a528b.js
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\chunks\webpack-db5cf0a8966a528b.js
+Content Type: application/javascript
+
+Uri: https://www.thrivenvision.studio/_next/static/css/bd2a88f29c76a2ca.css
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\css\bd2a88f29c76a2ca.css
+Content Type: text/css
+
+Uri: https://www.thrivenvision.studio/_next/static/css/f23161b4d00f4106.css
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\css\f23161b4d00f4106.css
+Content Type: text/css
+
+Uri: https://www.thrivenvision.studio/_next/static/media/3b401319a061ecfc-s.p.woff2
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\media\3b401319a061ecfc-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.thrivenvision.studio/_next/static/media/452a7035f0e39223-s.p.woff2
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\media\452a7035f0e39223-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.thrivenvision.studio/_next/static/media/59ce67ec56f57f4b-s.woff2
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\media\59ce67ec56f57f4b-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.thrivenvision.studio/_next/static/media/c67f2c33c73505fb-s.woff2
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\media\c67f2c33c73505fb-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.thrivenvision.studio/_next/static/media/cb30f3c84ca51532-s.woff2
+File Name: C:\Users\SESIP\Desktop\clone website\www.thrivenvision.studio\_next\static\media\cb30f3c84ca51532-s.woff2
+Content Type: font/woff2
+
